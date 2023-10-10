@@ -261,8 +261,3 @@ describe('parse config', () => {
     }
   });
 });
-deploy:
-  type: git
-  repo: https://github.com/moroboshikan/moroboshikan.github.io
-  # example, https://github.com/hexojs/hexojs.github.io
-  branch: gh-pages
